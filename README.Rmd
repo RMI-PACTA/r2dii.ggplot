@@ -38,7 +38,7 @@ locate_package <- function(pkg) {
 }
 ```
 
-# r2dii.ggplot <a href='https://github.com/2DegreesInvesting/r2dii.ggplot'><img src='https://imgur.com/A5ASZPE.png' align='right' height='43' /></a>
+# r2dii.ggplot DEPRECATED (see [r2dii.plot.static](https://github.com/2DegreesInvesting/r2dii.plot.static))<a href='https://github.com/2DegreesInvesting/r2dii.ggplot'><img src='https://imgur.com/A5ASZPE.png' align='right' height='43' /></a>
 
 <!-- badges: start -->
 [![Lifecycle:

@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# r2dii.ggplot <a href='https://github.com/2DegreesInvesting/r2dii.ggplot'><img src='https://imgur.com/A5ASZPE.png' align='right' height='43' /></a>
+# r2dii.ggplot DEPRECATED (see [r2dii.plot.static](https://github.com/2DegreesInvesting/r2dii.plot.static))<a href='https://github.com/2DegreesInvesting/r2dii.ggplot'><img src='https://imgur.com/A5ASZPE.png' align='right' height='43' /></a>
 
 <!-- badges: start -->
 
@@ -135,7 +135,7 @@ plot_techmix_custom_col <- plot_techmix(data_techmix_power, "Technology mix for 
 plot_techmix_custom_col
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-2.png" width="100%" style="display: block; margin: auto auto auto 0;" />
+<img src="man/figures/README-unnamed-chunk-5-2.png" width="100%" style="display: block; margin: auto auto auto 0;" />
 
 ## Metareport code examples
 
